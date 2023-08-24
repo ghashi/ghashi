@@ -2,7 +2,7 @@
 
 Passionate about creating impactful applications. Excited about solving unique challenges and building user-centered solutions.
 
-I'm currently engaged with Vigilantes do Sono, a pioneering Brazilian digital therapy company, revolutionizing mental health without the need for medication. With scientific proven therapeutic protocols, we're reshaping how mental well-being is approached.
+I'm currently engaged with [Vigilantes do Sono](https://www.vigilantesdosono.com/), a pioneering Brazilian digital therapy company, revolutionizing mental health without the need for medication. With scientific proven therapeutic protocols, we're reshaping how mental well-being is approached.
 
 
 ## Contact
