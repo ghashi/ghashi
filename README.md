@@ -8,6 +8,8 @@ I'm currently engaged with Vigilantes do Sono, a pioneering Brazilian digital th
 ## Contact
 
 💼 [LinkedIn](https://www.linkedin.com/in/ghashi)  
+
+
 🔗 [Stack Overflow](https://stackoverflow.com/users/3670829/ghashi)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3670829)](https://stackoverflow.com/users/3670829/ghashi)
